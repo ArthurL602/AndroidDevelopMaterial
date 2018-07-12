@@ -1,0 +1,20 @@
+1. Android ButterKnife Zelezny
+ButterKnife是一个专注于Android系统的View注入框架,可以减少大量的findViewById以及setOnClickListener代码，可视化一键生成；
+
+2. GsonFormat
+GsonFormat是一个快速格式化json数据，自动生成实体类参数的插件。
+
+3.Android Parcelable code generator
+快速实现Parcelable接口的插件。
+
+4. JSONOnlineViewer
+可实现直接在android studio中调试接口数据，可以选择请求类型，自定义请求头及请求体，json数据格式化后展示；
+
+5. CodeGlance
+在右边可以预览代码，实现快速定位；
+
+6. PermissionsDispatcher
+一个针对API 23，可在Activity/Fragment中快速生成Runtime Permissions代码的插件。
+
+7. GenerateSerialVersionUID
+实现Serializable序列化bean
