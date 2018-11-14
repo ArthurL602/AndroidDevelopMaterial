@@ -21,3 +21,6 @@ GsonFormat是一个快速格式化json数据，自动生成实体类参数的插
 
 8. Translation
 Android Studio里面的翻译插件，用的有道的，有道智云获取id appkey
+
+9. ECTranslation
+Android Studio里面的翻译插件
