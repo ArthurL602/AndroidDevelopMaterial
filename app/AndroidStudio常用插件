@@ -33,3 +33,9 @@ Android Studio 里面查看数据库表结构的插件
 
 12. MVPPlugin
 mvp插件
+
+13. adb idea : 安装 卸载 清理数据
+
+14. GradleDependenciesHelperPlugin ： gradle 依赖支持自动补全
+
+15. Postfix completion： 基于已经输入的表达式和你添加的后缀来实现另一个你想要的表达式
