@@ -47,3 +47,5 @@ mvp插件
 18. BugKotlinDoc: kotlin 方法数据模板；
 
 19. GsonFormPlus：kotlin 下 gsonformat；
+
+20. ScreenMatch:最小宽度限定符UI适配插件；
